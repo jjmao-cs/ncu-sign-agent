@@ -63,6 +63,6 @@ def sign_start(id,password):
         
 
 if __name__ == "__main__":
-    #id,password=input().split()
+    id,password=input().split()
     sign_start(id,password)
     pass
